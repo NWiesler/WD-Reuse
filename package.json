@@ -1,0 +1,23 @@
+{
+  "name": "WD-Reuse",
+  "version": "1.0.0",
+  "description": "Informationsdesign Reuse und Secondhand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NWiesler/WD-Reuse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NWiesler/WD-Reuse/issues"
+  },
+  "homepage": "https://github.com/NWiesler/WD-Reuse#readme",
+  "dependencies": {
+    "vue": "^3.0.4"
+  }
+}
